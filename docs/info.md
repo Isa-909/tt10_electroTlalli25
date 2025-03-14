@@ -16,7 +16,7 @@ The circuit has the following features:
 
 
 
-![Pin Diagram]
+
 
 ## GPIO Pin Table
 
