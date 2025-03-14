@@ -1,7 +1,4 @@
-/*
- * Copyright (c) 2024 Asilvaj1234
- * SPDX-License-Identifier: Apache-2.0
- */
+
 
 `default_nettype none
 
