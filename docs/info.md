@@ -1,4 +1,4 @@
-# 4-Bit Binary Counter for Tiny Tapeout
+# 4-Bit Binary Counter
 
 This project implements a 4-bit synchronous binary counter for Tiny Tapeout.
 
