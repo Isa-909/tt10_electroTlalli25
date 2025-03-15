@@ -39,7 +39,7 @@ jobs:
           else
             echo "FPGA_STATUS=failing" >> $GITHUB_ENV
         fi
-      - name: Upload Artifact
+      - name: Upload Artifact  # Corrige la indentación aquí
         uses: actions/upload-artifact@v3
         with:
           name: hardened-netlist
