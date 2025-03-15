@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        ""8-bit Up/Down Counter" "    # Project title
+  title:        "8-bit Up/Down Counter"     # Project title
   author:       "Isaac Cardoso Perez"      # Your name
   discord:      "ICard"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "An 8-bit synchronous up/down counter implemented in Verilog"      # One line description of what your project does
