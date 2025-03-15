@@ -14,8 +14,7 @@ module tt_um_counter (
     reg [3:0] count;
 
     // Assign inputs to internal signals
-    assign clk = ui_in[0];
-    assign rst_n = ui_in[1];
+    
     assign select = ui_in[2];
 
     // 4-bit synchronous up/down counter
