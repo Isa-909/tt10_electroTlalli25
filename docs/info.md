@@ -33,6 +33,7 @@ The circuit has the following features:
 ![BINARY COUNTER 4 BITS](https://github.com/user-attachments/assets/415cbf24-5019-4fde-80bd-8b90a750cfc7)
 
 The 4-bit binary counter increments or decrements on each positive edge of the clock signal, depending on the value of the `select` input. When the `rst_n` input is low, the counter is reset to 0.
+![circuit](https://github.com/user-attachments/assets/7f0c8692-dd97-48cd-9c78-9cf6aa8b14b8)
 
 ## How to Test
 ![IMAGES](https://github.com/user-attachments/assets/4ef476f2-aef9-4cc3-9978-566cec9725c2)
