@@ -38,7 +38,7 @@ jobs:
             echo "FPGA_STATUS=passing" >> $GITHUB_ENV
           else
             echo "FPGA_STATUS=failing" >> $GITHUB_ENV
-        fi
+        
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
