@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project: "count"
+project: 
   title:        "8-bit Up/Down Counter"     # Project title
   author:       "Isaac Cardoso Perez"      # Your name
   discord:      "ICard"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
